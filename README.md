@@ -5,3 +5,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thelma-tertrais/thelma-tertrais/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/thelma-tertrais/thelma-tertrais/output/github-snake.svg" />
 </picture>
+
+![anagram animation](https://raw.githubusercontent.com/thelma-tertrais/thelma-tertrais/main/anagram.svg)
