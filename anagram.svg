@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 578 150" width="578" height="150">
+  <rect width="100%" height="100%" fill="transparent"/>
+  <text x="30" y="78" font-family="'JetBrains Mono','Courier New',monospace" font-weight="700" font-size="42" fill="#ff6b6b">T
+    <animate attributeName="x" values="30;30;115.0;200;200;115.0;30" keyTimes="0;0.14;0.28;0.42;0.64;0.78;1" dur="9s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+    <animate attributeName="y" values="78;78;44;78;78;44;78" keyTimes="0;0.14;0.28;0.42;0.64;0.78;1" dur="9s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+  </text>
+  <text x="64" y="78" font-family="'JetBrains Mono','Courier New',monospace" font-weight="700" font-size="42" fill="#f7b731">H
+    <animate attributeName="x" values="64;64;47.0;30;30;47.0;64" keyTimes="0;0.14;0.28;0.42;0.64;0.78;1" dur="9s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+    <animate attributeName="y" values="78;78;44;78;78;44;78" keyTimes="0;0.14;0.28;0.42;0.64;0.78;1" dur="9s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+  </text>
+  <text x="98" y="78" font-family="'JetBrains Mono','Courier New',monospace" font-weight="700" font-size="42" fill="#20bf6b">E
+    <animate attributeName="x" values="98;98;132.0;166;166;132.0;98" keyTimes="0;0.14;0.28;0.42;0.64;0.78;1" dur="9s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+    <animate attributeName="y" values="78;78;44;78;78;44;78" keyTimes="0;0.14;0.28;0.42;0.64;0.78;1" dur="9s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+  </text>
+  <text x="132" y="78" font-family="'JetBrains Mono','Courier New',monospace" font-weight="700" font-size="42" fill="#0fb9b1">L
+    <animate attributeName="x" values="132;132;132.0;132;132;132.0;132" keyTimes="0;0.14;0.28;0.42;0.64;0.78;1" dur="9s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+    <animate attributeName="y" values="78;78;44;78;78;44;78" keyTimes="0;0.14;0.28;0.42;0.64;0.78;1" dur="9s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+  </text>
+  <text x="166" y="78" font-family="'JetBrains Mono','Courier New',monospace" font-weight="700" font-size="42" fill="#2d98da">M
+    <animate attributeName="x" values="166;166;132.0;98;98;132.0;166" keyTimes="0;0.14;0.28;0.42;0.64;0.78;1" dur="9s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+    <animate attributeName="y" values="78;78;44;78;78;44;78" keyTimes="0;0.14;0.28;0.42;0.64;0.78;1" dur="9s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+  </text>
+  <text x="200" y="78" font-family="'JetBrains Mono','Courier New',monospace" font-weight="700" font-size="42" fill="#8854d0">A
+    <animate attributeName="x" values="200;200;132.0;64;64;132.0;200" keyTimes="0;0.14;0.28;0.42;0.64;0.78;1" dur="9s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+    <animate attributeName="y" values="78;78;44;78;78;44;78" keyTimes="0;0.14;0.28;0.42;0.64;0.78;1" dur="9s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+  </text>
+  <text x="268" y="78" font-family="'JetBrains Mono','Courier New',monospace" font-weight="700" font-size="42" fill="#fa8231">T
+    <animate attributeName="x" values="268;268;268.0;268;268;268.0;268" keyTimes="0;0.14;0.28;0.42;0.64;0.78;1" dur="9s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+    <animate attributeName="y" values="78;78;44;78;78;44;78" keyTimes="0;0.14;0.28;0.42;0.64;0.78;1" dur="9s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+  </text>
+  <text x="302" y="78" font-family="'JetBrains Mono','Courier New',monospace" font-weight="700" font-size="42" fill="#26de81">E
+    <animate attributeName="x" values="302;302;387.0;472;472;387.0;302" keyTimes="0;0.14;0.28;0.42;0.64;0.78;1" dur="9s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+    <animate attributeName="y" values="78;78;44;78;78;44;78" keyTimes="0;0.14;0.28;0.42;0.64;0.78;1" dur="9s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+  </text>
+  <text x="336" y="78" font-family="'JetBrains Mono','Courier New',monospace" font-weight="700" font-size="42" fill="#4b7bec">R
+    <animate attributeName="x" values="336;336;319.0;302;302;319.0;336" keyTimes="0;0.14;0.28;0.42;0.64;0.78;1" dur="9s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+    <animate attributeName="y" values="78;78;44;78;78;44;78" keyTimes="0;0.14;0.28;0.42;0.64;0.78;1" dur="9s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+  </text>
+  <text x="370" y="78" font-family="'JetBrains Mono','Courier New',monospace" font-weight="700" font-size="42" fill="#a55eea">T
+    <animate attributeName="x" values="370;370;387.0;404;404;387.0;370" keyTimes="0;0.14;0.28;0.42;0.64;0.78;1" dur="9s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+    <animate attributeName="y" values="78;78;44;78;78;44;78" keyTimes="0;0.14;0.28;0.42;0.64;0.78;1" dur="9s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+  </text>
+  <text x="404" y="78" font-family="'JetBrains Mono','Courier New',monospace" font-weight="700" font-size="42" fill="#fc5c65">R
+    <animate attributeName="x" values="404;404;421.0;438;438;421.0;404" keyTimes="0;0.14;0.28;0.42;0.64;0.78;1" dur="9s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+    <animate attributeName="y" values="78;78;44;78;78;44;78" keyTimes="0;0.14;0.28;0.42;0.64;0.78;1" dur="9s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+  </text>
+  <text x="438" y="78" font-family="'JetBrains Mono','Courier New',monospace" font-weight="700" font-size="42" fill="#fed330">A
+    <animate attributeName="x" values="438;438;387.0;336;336;387.0;438" keyTimes="0;0.14;0.28;0.42;0.64;0.78;1" dur="9s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+    <animate attributeName="y" values="78;78;44;78;78;44;78" keyTimes="0;0.14;0.28;0.42;0.64;0.78;1" dur="9s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+  </text>
+  <text x="472" y="78" font-family="'JetBrains Mono','Courier New',monospace" font-weight="700" font-size="42" fill="#0be881">I
+    <animate attributeName="x" values="472;472;421.0;370;370;421.0;472" keyTimes="0;0.14;0.28;0.42;0.64;0.78;1" dur="9s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+    <animate attributeName="y" values="78;78;44;78;78;44;78" keyTimes="0;0.14;0.28;0.42;0.64;0.78;1" dur="9s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+  </text>
+  <text x="506" y="78" font-family="'JetBrains Mono','Courier New',monospace" font-weight="700" font-size="42" fill="#45aaf2">S
+    <animate attributeName="x" values="506;506;506.0;506;506;506.0;506" keyTimes="0;0.14;0.28;0.42;0.64;0.78;1" dur="9s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+    <animate attributeName="y" values="78;78;44;78;78;44;78" keyTimes="0;0.14;0.28;0.42;0.64;0.78;1" dur="9s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+  </text>
+</svg>
